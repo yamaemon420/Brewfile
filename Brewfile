@@ -32,6 +32,7 @@ cask install the-unarchiver
 cask install vagrant
 cask install virtualbox
 cask install vlc
+cask install xquartz
 cask install xtrafinder
 cask install yorufukurou
 
