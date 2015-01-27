@@ -25,6 +25,7 @@ cask install intellij-idea
 cask install iterm2
 cask install onyx
 cask install osxfuse
+cask install shiftit
 cask install skitch
 cask install sublime-text
 cask install the-unarchiver
