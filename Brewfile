@@ -23,6 +23,7 @@ cask install hosts
 cask install imageoptim
 cask install intellij-idea
 cask install iterm2
+cask install karabiner
 cask install onyx
 cask install osxfuse
 cask install shiftit
