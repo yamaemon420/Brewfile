@@ -58,11 +58,6 @@ install vim
 install wget
 install zsh
 
-# Below applications were installed by Cask,
-# but don't not have corresponding casks.
-
-#cask  install yorufukurou (!)
-
 # App Store applications
 appstore GarageBand
 appstore iMovie
