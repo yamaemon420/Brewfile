@@ -48,15 +48,17 @@ install dash
 install dnsmasq
 install gdbm
 install git
+install libevent
 install openssl
 install pcre
 install pkg-config
 install rbenv
 install ruby-build
 install sl
+install tmux
 install vim
 install wget
-install zsh
+install zsh --disable-etcdir
 
 # App Store applications
 appstore GarageBand
