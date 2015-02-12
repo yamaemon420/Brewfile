@@ -24,6 +24,8 @@ cask install imageoptim
 cask install intellij-idea
 cask install iterm2
 cask install karabiner
+cask install keepassx
+cask install macvim
 cask install onyx
 cask install osxfuse
 cask install shiftit
@@ -49,6 +51,8 @@ install dnsmasq
 install gdbm
 install git
 install libevent
+install mercurial
+install nkf
 install openssl
 install pcre
 install pkg-config
@@ -58,7 +62,7 @@ install sl
 install tmux
 install vim
 install wget
-install zsh --disable-etcdir
+install zsh
 
 # App Store applications
 appstore GarageBand
