@@ -26,6 +26,7 @@ cask install iterm2
 cask install karabiner
 cask install kindle
 cask install macvim
+cask install night-owl
 cask install omnifocus
 cask install onyx
 cask install osxfuse
