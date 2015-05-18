@@ -3,68 +3,68 @@
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
-cask install adobe-reader
-cask install alfred
-cask install android-studio
-cask install appcleaner
-cask install ccleaner
-cask install cyberduck
-cask install dash
-cask install disk-inventory-x
-cask install dropbox
-cask install evernote
-cask install filezilla
-cask install firefox
-cask install flash
-cask install google-chrome
-cask install google-japanese-ime
-cask install hosts
-cask install imageoptim
-cask install intellij-idea
-cask install iterm2
-cask install karabiner
-cask install kindle
-cask install macvim
-cask install night-owl
-cask install omnifocus
-cask install onyx
-cask install osxfuse
-cask install shiftit
-cask install skitch
-cask install sublime-text
-cask install the-unarchiver
-cask install vagrant
-cask install virtualbox
-cask install vlc
-cask install xquartz
-cask install xtrafinder
+brew brew-cask
+cask adobe-reader
+cask alfred
+cask android-studio
+cask appcleaner
+cask ccleaner
+cask cyberduck
+cask dash
+cask disk-inventory-x
+cask dropbox
+cask evernote
+cask filezilla
+cask firefox
+cask flash
+cask google-chrome
+cask google-japanese-ime
+cask hosts
+cask imageoptim
+cask intellij-idea
+cask iterm2
+cask karabiner
+cask kindle
+cask macvim
+cask night-owl
+cask omnifocus
+cask onyx
+cask osxfuse
+cask shiftit
+cask skitch
+cask sublime-text
+cask the-unarchiver
+cask vagrant
+cask virtualbox
+cask vlc
+cask xquartz
+cask xtrafinder
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+brew brew-file
 
 # Other Homebrew packages
-install autoconf
-install ctags
-install curl
-install dash
-install dnsmasq
-install gdbm
-install git
-install libevent
-install mercurial
-install nkf
-install openssl
-install pcre
-install pkg-config
-install rbenv
-install ruby-build
-install sl
-install tmux
-install vim
-install wget
-install zsh
+brew autoconf
+brew ctags
+brew curl
+brew dash
+brew dnsmasq
+brew gdbm
+brew git
+brew libevent
+brew mercurial
+brew nkf
+brew openssl
+brew pcre
+brew pkg-config
+brew rbenv
+brew ruby-build
+brew sl
+brew tmux
+brew vim
+brew wget
+brew zsh
 
 # App Store applications
 appstore GarageBand
